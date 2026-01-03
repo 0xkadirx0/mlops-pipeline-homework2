@@ -1,0 +1,27 @@
+# MLOps CI/CD Pipeline - Python Dependencies
+
+# Testing Frameworks
+pytest>=7.4.0
+pytest-cov>=4.1.0
+unittest-xml-reporting>=3.2.0
+
+# Code Quality Tools
+pylint>=2.17.0
+flake8>=6.0.0
+black>=23.7.0
+isort>=5.12.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Logging and Monitoring
+python-json-logger>=2.0.0
+
+# Development Tools
+ipython>=8.14.0
+jupyter>=1.0.0
+
+# Optional: For advanced orchestration (if needed)
+# airflow>=2.7.0
+# prefect>=2.12.0
